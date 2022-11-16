@@ -1,7 +1,7 @@
 import telebot as tb
 from telebot import custom_filters, types
 
-TOKEN = '5691379515:AAGNsYkciqoF6IJqjDIfks0GSKJ7FftJY88'
+TOKEN = ''
 
 bot = tb.TeleBot(TOKEN)
 
